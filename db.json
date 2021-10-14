@@ -1,11 +1,11 @@
 {
   "organization": [
-     { "name":"Rektor", "id":"12da1628-7948-4416-ab77-6040c5df165b", "shortName": "RKR", "parentId": "0", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
-	  "isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 },
-	  { "name":"Prorektor ds. Rozwoju", "id":"fd328671-e2a6-4b8a-a772-61ced59565be", "shortName": "PRR", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
-	  "isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 },
-	  { "name":"Dział Informatyki", "id":"899263aa-2422-474b-9777-f36ab3975113", "shortName": "DIN", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
-	  "isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 },
+{ "name":"Rektor", "id":"12da1628-7948-4416-ab77-6040c5df165b", "shortName": "RKR", "parentId": "0", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
+"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 },
+{ "name":"Prorektor ds. Rozwoju", "id":"fd328671-e2a6-4b8a-a772-61ced59565be", "shortName": "PRR", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
+"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 },
+{ "name":"Dział Informatyki", "id":"899263aa-2422-474b-9777-f36ab3975113", "shortName": "DIN", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
+"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
