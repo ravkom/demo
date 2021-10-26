@@ -7,6 +7,14 @@
 { "name":"Dział Informatyki", "id":"0524b9a4-923e-49f4-9ca9-991841e97129", "shortName": "DIN", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
 "isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1, "status": "active" }
   ],
+  "users": [
+{ "name":"Rektor", "id":"12da1628-7948-4416-ab77-6040c5df165b", "shortName": "RKR", "parentId": "0", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
+"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 , "status": "active"},
+{ "name":"Prorektor ds. Rozwoju", "id":"899263aa-2422-474b-9777-f36ab3975113", "shortName": "PRR", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
+"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1, "status": "active" },
+{ "name":"Dział Informatyki", "id":"0524b9a4-923e-49f4-9ca9-991841e97129", "shortName": "DIN", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
+"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1, "status": "active" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
