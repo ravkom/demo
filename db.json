@@ -9,6 +9,8 @@
   ],
   "users": [
 { "name":"Rafał", "surename":"Kowalski", "email":"rafal.kowalski@w.pl","id":"12da1628-7948-4416-ab77-6040c5df165b", "sAMAccountName":"rafal.kowalski@w.pl","status": "active"},
+{ "name":"Edyta", "surename":"Kowalska", "email":"edyta.kowalska@w.pl","id":"899263aa-2422-474b-9777-f36ab3975113", "sAMAccountName":"edyta.kowalska@w.pl","status": "active"},
+{ "name":"Jan", "surename":"Kowalski", "email":"jan.kowalski@w.pl","id":"0524b9a4-923e-49f4-9ca9-991841e97129", "sAMAccountName":"jan.kowalski@w.pl","status": "active"} 
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
