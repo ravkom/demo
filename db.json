@@ -14,8 +14,8 @@
   ],
   "notificationUSOS": [
 { 
-  "id":"177473",
-  "pesel": "11111111111", "peselUSOS": "", 
+ "id":"177473",
+ "pesel": "11111111111", "peselUSOS": "", 
  "email": "adam.p@student.cukier.pl", "emailUSOS": "adam.p@student.cukier.pl",
  "birthPlace": "Kędzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
  "privateEmail": "adam.p@ip.p", "privateEmailUSOS": "adamxd42@g.p"
