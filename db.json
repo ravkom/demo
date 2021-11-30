@@ -12,11 +12,11 @@
 { "name":"Edyta", "surname":"Kowalska", "secondName": "Anna","email":"edyta.kowalska@w.pl","id":"899263aa-2422-474b-9777-f36ab3975113", "sAMAccountName":"edyta.kowalska","status": "active", "privateEmail":"edyta@w.p"},
 { "name":"Jan", "surname":"Kowalski", "secondName": "Gabriel","email":"jan.kowalski@w.pl","id":"0524b9a4-923e-49f4-9ca9-991841e97129", "sAMAccountName":"jan.kowalski","status": "active", "privateEmail":"jan@w.p"}  
   ],
-  "notificationUsos": [
+  "notificationUSOS": [
 { "pesel": "11111111111", "peselUSOS": "", 
  "email": "adam.p@student.cukier.pl", "emailUSOS": "adam.p@student.cukier.pl",
  "birthPlace": "Kędzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
- "privateEmail": "adam.p@ip.p", "privateEmailUSOS": "adamxd42@g.p", 
+ "privateEmail": "adam.p@ip.p", "privateEmailUSOS": "adamxd42@g.p"
 }  
   ],
   
