@@ -40,6 +40,20 @@
  "email": "<sprawdzenie adresu e-mail>", "emailUSOS": "adam.testowy@student.wat.edu.pl",
  "birthPlace": "Kędzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
  "privateEmail": "", "privateEmailUSOS": ""
+},
+{
+ "id":"177475",
+ "pesel": 112211111, "peselUSOS": "", 
+ "email": "<sprawdzenie adresu e-mail>", "emailUSOS": "adam.testowy@student.wat.edu.pl",
+ "birthPlace": "Kedzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
+ "privateEmail": "", "privateEmailUSOS": ""
+},
+{
+ "id":"177476",
+ "pesel": 112211111, "peselUSOS": "", 
+ "email": "adam.testowy@student.wat.edu.pl", "emailUSOS": "adam.testowy@student.wat.edu.pl",
+ "birthPlace": "Kędzierzyn Koźle", "birthPlaceUSOS": "Kędzierzyn-koźle",
+ "privateEmail": "", "privateEmailUSOS": ""
 }
   ],
   
