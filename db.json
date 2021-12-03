@@ -22,7 +22,7 @@
 } 
 {
  "id":"177400",
- "pesel": 00112200000, "peselUSOS": "", 
+ "pesel": 112200000, "peselUSOS": "", 
  "email": "jan.testowy@student.wat.edu.pl", "emailUSOS": "jan.testowy@student.wat.edu.pl",
  "birthPlace": "Warszawa", "birthPlaceUSOS": "Mysiadło",
  "privateEmail": "", "privateEmailUSOS": ""
