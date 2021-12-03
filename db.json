@@ -22,9 +22,16 @@
 },
 {
  "id":"177400",
- "pesel": 112200000, "peselUSOS": "", 
+ "pesel": 00112200000, "peselUSOS": "", 
  "email": "jan.testowy@student.wat.edu.pl", "emailUSOS": "jan.testowy@student.wat.edu.pl",
  "birthPlace": "Warszawa", "birthPlaceUSOS": "Mysiadło",
+ "privateEmail": "", "privateEmailUSOS": ""
+},
+{
+ "id":"177472",
+ "pesel": 00112211111, "peselUSOS": "", 
+ "email": "<sprawdzenie adresu e-mail>", "emailUSOS": "adam.testowy@student.wat.edu.pl",
+ "birthPlace": "Kedzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
  "privateEmail": "", "privateEmailUSOS": ""
 }
   ],
