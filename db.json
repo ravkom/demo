@@ -15,10 +15,10 @@
   "notificationUSOS": [
 { 
  "id":"177473",
- "pesel": 11111111111, "peselUSOS": "", 
- "email": "adam.p@student.cukier.pl", "emailUSOS": "adam.p@student.cukier.pl",
+ "pesel": 112211111, "peselUSOS": "", 
+ "email": "adam.testowy@student.wat.edu.pl", "emailUSOS": "adam.testowy@student.wat.edu.pl",
  "birthPlace": "Kędzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
- "privateEmail": "adam.p@ip.p", "privateEmailUSOS": "adamxd42@g.p"
+ "privateEmail": "adam.testowy@op.pl", "privateEmailUSOS": "adamtest1234@gmail.com"
 },
 {
  "id":"177400",
