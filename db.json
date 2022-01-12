@@ -1,61 +1,185 @@
 {
+ {
   "organization": [
-{ "code":1, "name":"Rektor", "id":"12da1628-7948-4416-ab77-6040c5df165b", "shortName": "RKR", "parentId": "0", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
-"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1 , "status": "active"},
-{ "code":2, "name":"Prorektor ds. Rozwoju", "id":"899263aa-2422-474b-9777-f36ab3975113", "shortName": "PRR", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
-"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1, "status": "active" },
-{ "code":3, "name":"Dział Informatyki", "id":"0524b9a4-923e-49f4-9ca9-991841e97129", "shortName": "DIN", "parentId": "12da1628-7948-4416-ab77-6040c5df165b", "isMainUnit": true, "isOrganizationUnit":false, "isInternalUnit": false, "isSupervisedByParent" : true,
-"isCorrespondenceUnit" : true, "hasTelcoLimits" : true, "telcoLimit" : 1, "status": "active" }
+    {
+      "code": 1,
+      "name": "Rektor",
+      "id": "12da1628-7948-4416-ab77-6040c5df165b",
+      "shortName": "RKR",
+      "parentId": "0",
+      "isMainUnit": true,
+      "isOrganizationUnit": false,
+      "isInternalUnit": false,
+      "isSupervisedByParent": true,
+      "isCorrespondenceUnit": true,
+      "hasTelcoLimits": true,
+      "telcoLimit": 1,
+      "status": "active"
+    },
+    {
+      "code": 2,
+      "name": "Prorektor ds. Rozwoju",
+      "id": "899263aa-2422-474b-9777-f36ab3975113",
+      "shortName": "PRR",
+      "parentId": "12da1628-7948-4416-ab77-6040c5df165b",
+      "isMainUnit": true,
+      "isOrganizationUnit": false,
+      "isInternalUnit": false,
+      "isSupervisedByParent": true,
+      "isCorrespondenceUnit": true,
+      "hasTelcoLimits": true,
+      "telcoLimit": 1,
+      "status": "active"
+    },
+    {
+      "code": 3,
+      "name": "Dział Informatyki",
+      "id": "0524b9a4-923e-49f4-9ca9-991841e97129",
+      "shortName": "DIN",
+      "parentId": "12da1628-7948-4416-ab77-6040c5df165b",
+      "isMainUnit": true,
+      "isOrganizationUnit": false,
+      "isInternalUnit": false,
+      "isSupervisedByParent": true,
+      "isCorrespondenceUnit": true,
+      "hasTelcoLimits": true,
+      "telcoLimit": 1,
+      "status": "active"
+    }
   ],
   "users": [
-{ "name":"Rafał", "surname":"Kowalski", "secondName": "Daniel","email":"rafal.kowalski@w.pl","id":"12da1628-7948-4416-ab77-6040c5df165b", "sAMAccountName":"rafal.kowalski","status": "active", "privateEmail":"rafal@w.p"},
-{ "name":"Edyta", "surname":"Kowalska", "secondName": "Anna","email":"edyta.kowalska@w.pl","id":"899263aa-2422-474b-9777-f36ab3975113", "sAMAccountName":"edyta.kowalska","status": "active", "privateEmail":"edyta@w.p"},
-{ "name":"Jan", "surname":"Kowalski", "secondName": "Gabriel","email":"jan.kowalski@w.pl","id":"0524b9a4-923e-49f4-9ca9-991841e97129", "sAMAccountName":"jan.kowalski","status": "active", "privateEmail":"jan@w.p"}  
+    {
+      "id": "12da1628-7948-4416-ab77-6040c5df165b",
+      "nameId": "kowalskirafa",
+      "UPN": "rafal.kowalski@w.pl",
+      "name": "Rafał",
+      "surname": "Kowalski",
+      "secondName": "Daniel",
+      "fullName": "Rafał Kowalski",
+      "ADFullName": "Rafał Kowalski",
+      "pesel": "80010900000",
+      "email": "rafal.kowalski@w.pl",
+      "job": "st.specjalista",
+      "unit": "DIN/PRR",
+      "USOSId": "",
+      "USOSAlbumId": "",
+      "sAMAccountName": "rafal.kowalski",
+      "status": "active",
+      "privateEmail": "rafal@w.p",
+      "roleId": "1"
+    },
+    {
+      "name": "Edyta",
+      "surname": "Kowalska",
+      "secondName": "Anna",
+      "email": "edyta.kowalska@w.pl",
+      "id": "899263aa-2422-474b-9777-f36ab3975113",
+      "sAMAccountName": "edyta.kowalska",
+      "status": "active",
+      "privateEmail": "edyta@w.p",
+      "roleId": "2"
+    },
+    {
+      "name": "Jan",
+      "surname": "Kowalski",
+      "secondName": "Gabriel",
+      "email": "jan.kowalski@w.pl",
+      "id": "0524b9a4-923e-49f4-9ca9-991841e97129",
+      "sAMAccountName": "jan.kowalski",
+      "status": "active",
+      "privateEmail": "jan@w.p",
+      "roleId": "3"
+    }
   ],
+  "role": [
+    {
+      "id": "1",
+      "name": "Doktorant"
+    },
+    {
+      "id": "2",
+      "name": "Pracownik etatowy"
+    },
+    {
+      "id": "3",
+      "name": "Pracownik nieetatowy"
+    },
+    {
+      "id": "4",
+      "name": "Student"
+    }
+  ],
+
   "notificationUSOS": [
-{ 
- "id":"177473",
- "pesel": 112211111, "peselUSOS": "", 
- "email": "adam.testowy@student.wat.edu.pl", "emailUSOS": "adam.testowy@student.wat.edu.pl",
- "birthPlace": "Kędzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
- "privateEmail": "adam.testowy@op.pl", "privateEmailUSOS": "adamtest1234@gmail.com"
-},
-{
- "id":"177400",
- "pesel": 112200000, "peselUSOS": "", 
- "email": "jan.testowy@student.wat.edu.pl", "emailUSOS": "jan.testowy@student.wat.edu.pl",
- "birthPlace": "Warszawa", "birthPlaceUSOS": "Mysiadło",
- "privateEmail": "", "privateEmailUSOS": ""
-},
-{
- "id":"177472",
- "pesel": 112211111, "peselUSOS": "", 
- "email": "<sprawdzenie adresu e-mail>", "emailUSOS": "adam.testowy@student.wat.edu.pl",
- "birthPlace": "Kedzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźledddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
- "privateEmail": "", "privateEmailUSOS": ""
-},    
-{
- "id":"177474",
- "pesel": 112211111, "peselUSOS": "", 
- "email": "<sprawdzenie adresu e-mail>", "emailUSOS": "adam.testowy@student.wat.edu.pl",
- "birthPlace": "Kędzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
- "privateEmail": "", "privateEmailUSOS": ""
-},
-{
- "id":"177475",
- "pesel": 112211111, "peselUSOS": "", 
- "email": "<sprawdzenie adresu e-mail>", "emailUSOS": "adam.testowy@student.wat.edu.pl",
- "birthPlace": "Kedzierzyn", "birthPlaceUSOS": "Kędzierzyn-koźle",
- "privateEmail": "", "privateEmailUSOS": ""
-},
-{
- "id":"177476",
- "pesel": 112211111, "peselUSOS": "", 
- "email": "adam.testowy@student.wat.edu.pl", "emailUSOS": "adam.testowy@student.wat.edu.pl",
- "birthPlace": "Kędzierzyn Koźle", "birthPlaceUSOS": "Kędzierzyn-koźle",
- "privateEmail": "", "privateEmailUSOS": ""
+    {
+      "id": "177473",
+      "pesel": 112211111,
+      "peselUSOS": "",
+      "email": "adam.testowy@student.wat.edu.pl",
+      "emailUSOS": "adam.testowy@student.wat.edu.pl",
+      "birthPlace": "Kędzierzyn",
+      "birthPlaceUSOS": "Kędzierzyn-koźle",
+      "privateEmail": "adam.testowy@op.pl",
+      "privateEmailUSOS": "adamtest1234@gmail.com"
+    },
+    {
+      "id": "177400",
+      "pesel": 112200000,
+      "peselUSOS": "",
+      "email": "jan.testowy@student.wat.edu.pl",
+      "emailUSOS": "jan.testowy@student.wat.edu.pl",
+      "birthPlace": "Warszawa",
+      "birthPlaceUSOS": "Mysiadło",
+      "privateEmail": "",
+      "privateEmailUSOS": ""
+    },
+    {
+      "id": "177472",
+      "pesel": 112211111,
+      "peselUSOS": "",
+      "email": "<sprawdzenie adresu e-mail>",
+      "emailUSOS": "adam.testowy@student.wat.edu.pl",
+      "birthPlace": "Kedzierzyn",
+      "birthPlaceUSOS": "Kędzierzyn-koźledddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "privateEmail": "",
+      "privateEmailUSOS": ""
+    },
+    {
+      "id": "177474",
+      "pesel": 112211111,
+      "peselUSOS": "",
+      "email": "<sprawdzenie adresu e-mail>",
+      "emailUSOS": "adam.testowy@student.wat.edu.pl",
+      "birthPlace": "Kędzierzyn",
+      "birthPlaceUSOS": "Kędzierzyn-koźle",
+      "privateEmail": "",
+      "privateEmailUSOS": ""
+    },
+    {
+      "id": "177475",
+      "pesel": 112211111,
+      "peselUSOS": "",
+      "email": "<sprawdzenie adresu e-mail>",
+      "emailUSOS": "adam.testowy@student.wat.edu.pl",
+      "birthPlace": "Kedzierzyn",
+      "birthPlaceUSOS": "Kędzierzyn-koźle",
+      "privateEmail": "",
+      "privateEmailUSOS": ""
+    },
+    {
+      "id": "177476",
+      "pesel": 112211111,
+      "peselUSOS": "",
+      "email": "adam.testowy@student.wat.edu.pl",
+      "emailUSOS": "adam.testowy@student.wat.edu.pl",
+      "birthPlace": "Kędzierzyn Koźle",
+      "birthPlaceUSOS": "Kędzierzyn-koźle",
+      "privateEmail": "",
+      "privateEmailUSOS": ""
+    }
+  ]
 }
-  ],
+]
   
   
   "comments": [
