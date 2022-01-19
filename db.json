@@ -176,5 +176,24 @@
       "privateEmail": "",
       "privateEmailUSOS": ""
     }
-  ]
+  ],
+  "contracts":
+  [
+   {
+      "id": "1",
+      "typeContractId":1,
+      "content": "Umowa użyczenia loklau"
+      "responsiblePerson": "Robert Kowalski",
+      "unit": "RWY",
+      "personWhoTake": "Remek Ekierek"
+      "unitWhereIs" "RWY"
+    }
+  ],
+  "typeContractId":
+  [
+   {
+      "id": "1",
+      "name": "Umowa bezkosztowa"
+    }
+  ],
 }
