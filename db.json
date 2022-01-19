@@ -186,13 +186,13 @@
       "responsiblePerson": "Robert Kowalski",
       "unit": "RWY",
       "personWhoTake": "Remek Ekierek",
-      "unitWhereIs" "RWY"
+      "unitWhereIs": "RWY"
     }
   ],
   "typeContractId":
   [
    {
-      "id": "1",
+      "id": 1,
       "name": "Umowa bezkosztowa"
     }
   ],
