@@ -189,11 +189,5 @@
       "unitWhereIs": "RWY"
     }
   ],
-  "typeContractId":
-  [
-   {
-      "id": 1,
-      "name": "Umowa bezkosztowa"
-    }
-  ]
+  
 }
